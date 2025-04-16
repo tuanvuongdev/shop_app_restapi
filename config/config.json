@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "vuongpt",
-    "password": null,
+    "username": "",
+    "password": "",
     "database": "shopapp_online",
-    "host": "5.181.217.95",
+    "host": "",
     "dialect": "mysql"
   },
   "test": {
